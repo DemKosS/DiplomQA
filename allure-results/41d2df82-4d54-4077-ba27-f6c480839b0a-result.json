@@ -1,0 +1,117 @@
+{
+    "name": "Переход к пользовательскому соглашению по ссылке",
+    "start": 1661795119643,
+    "stop": 1661795129479,
+    "stage": "finished",
+    "description": null,
+    "descriptionHtml": null,
+    "status": "passed",
+    "statusDetails": null,
+    "steps": [
+        {
+            "name": "Проверка, что открыто акно авторизации",
+            "start": 1661795127536,
+            "stop": 1661795127536,
+            "stage": "finished",
+            "description": null,
+            "descriptionHtml": null,
+            "status": "passed",
+            "statusDetails": null,
+            "steps": [
+            ],
+            "attachments": [
+            ],
+            "parameters": [
+            ]
+        },
+        {
+            "name": "Переход в блок \"О приложении\"",
+            "start": 1661795127550,
+            "stop": 1661795127550,
+            "stage": "finished",
+            "description": null,
+            "descriptionHtml": null,
+            "status": "passed",
+            "statusDetails": null,
+            "steps": [
+            ],
+            "attachments": [
+            ],
+            "parameters": [
+            ]
+        },
+        {
+            "name": "Переход к пользовательскому соглашению",
+            "start": 1661795128420,
+            "stop": 1661795128420,
+            "stage": "finished",
+            "description": null,
+            "descriptionHtml": null,
+            "status": "passed",
+            "statusDetails": null,
+            "steps": [
+            ],
+            "attachments": [
+            ],
+            "parameters": [
+            ]
+        },
+        {
+            "name": "Проверка перехода на сайт с пользовательским соглашением",
+            "start": 1661795128779,
+            "stop": 1661795128779,
+            "stage": "finished",
+            "description": null,
+            "descriptionHtml": null,
+            "status": "passed",
+            "statusDetails": null,
+            "steps": [
+            ],
+            "attachments": [
+            ],
+            "parameters": [
+            ]
+        }
+    ],
+    "attachments": [
+    ],
+    "parameters": [
+    ],
+    "uuid": "41d2df82-4d54-4077-ba27-f6c480839b0a",
+    "historyId": "65f658c34dbcb0a862683896d75685af",
+    "fullName": "tests.Z_AboutSoftTests.shouldGoToUserAgreement",
+    "labels": [
+        {
+            "name": "package",
+            "value": "tests"
+        },
+        {
+            "name": "testClass",
+            "value": "tests.Z_AboutSoftTests"
+        },
+        {
+            "name": "testMethod",
+            "value": "shouldGoToUserAgreement"
+        },
+        {
+            "name": "suite",
+            "value": "tests.Z_AboutSoftTests"
+        },
+        {
+            "name": "host",
+            "value": "localhost"
+        },
+        {
+            "name": "thread",
+            "value": "Instr: androidx.test.runner.AndroidJUnitRunner(661)"
+        },
+        {
+            "name": "framework",
+            "value": "junit4"
+        },
+        {
+            "name": "language",
+            "value": "kotlin"
+        }
+    ]
+}

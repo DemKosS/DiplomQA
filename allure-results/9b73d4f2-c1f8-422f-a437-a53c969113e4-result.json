@@ -1,0 +1,101 @@
+{
+    "name": "Полнота информации раздела \"О приложении\"",
+    "start": 1661795109526,
+    "stop": 1661795119624,
+    "stage": "finished",
+    "description": null,
+    "descriptionHtml": null,
+    "status": "passed",
+    "statusDetails": null,
+    "steps": [
+        {
+            "name": "Проверка, что открыто акно авторизации",
+            "start": 1661795117689,
+            "stop": 1661795117689,
+            "stage": "finished",
+            "description": null,
+            "descriptionHtml": null,
+            "status": "passed",
+            "statusDetails": null,
+            "steps": [
+            ],
+            "attachments": [
+            ],
+            "parameters": [
+            ]
+        },
+        {
+            "name": "Переход в блок \"О приложении\"",
+            "start": 1661795117712,
+            "stop": 1661795117712,
+            "stage": "finished",
+            "description": null,
+            "descriptionHtml": null,
+            "status": "passed",
+            "statusDetails": null,
+            "steps": [
+            ],
+            "attachments": [
+            ],
+            "parameters": [
+            ]
+        },
+        {
+            "name": "Проверка, что в блоке О Хосписе полный контент",
+            "start": 1661795118675,
+            "stop": 1661795118675,
+            "stage": "finished",
+            "description": null,
+            "descriptionHtml": null,
+            "status": "passed",
+            "statusDetails": null,
+            "steps": [
+            ],
+            "attachments": [
+            ],
+            "parameters": [
+            ]
+        }
+    ],
+    "attachments": [
+    ],
+    "parameters": [
+    ],
+    "uuid": "9b73d4f2-c1f8-422f-a437-a53c969113e4",
+    "historyId": "3939a1f694facf519ca80405bdcb452b",
+    "fullName": "tests.Z_AboutSoftTests.shouldBeFullContentInAboutBlock",
+    "labels": [
+        {
+            "name": "package",
+            "value": "tests"
+        },
+        {
+            "name": "testClass",
+            "value": "tests.Z_AboutSoftTests"
+        },
+        {
+            "name": "testMethod",
+            "value": "shouldBeFullContentInAboutBlock"
+        },
+        {
+            "name": "suite",
+            "value": "tests.Z_AboutSoftTests"
+        },
+        {
+            "name": "host",
+            "value": "localhost"
+        },
+        {
+            "name": "thread",
+            "value": "Instr: androidx.test.runner.AndroidJUnitRunner(661)"
+        },
+        {
+            "name": "framework",
+            "value": "junit4"
+        },
+        {
+            "name": "language",
+            "value": "kotlin"
+        }
+    ]
+}

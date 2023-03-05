@@ -1,0 +1,117 @@
+{
+    "name": "Наличие заявок в разделе \"Заявки\" в главном блоке",
+    "start": 1661794752735,
+    "stop": 1661794766464,
+    "stage": "finished",
+    "description": null,
+    "descriptionHtml": null,
+    "status": "passed",
+    "statusDetails": null,
+    "steps": [
+        {
+            "name": "Проверка, что открыто акно авторизации",
+            "start": 1661794764016,
+            "stop": 1661794764016,
+            "stage": "finished",
+            "description": null,
+            "descriptionHtml": null,
+            "status": "passed",
+            "statusDetails": null,
+            "steps": [
+            ],
+            "attachments": [
+            ],
+            "parameters": [
+            ]
+        },
+        {
+            "name": "Свернуть/раскрыть раздел с новостями",
+            "start": 1661794764046,
+            "stop": 1661794764046,
+            "stage": "finished",
+            "description": null,
+            "descriptionHtml": null,
+            "status": "passed",
+            "statusDetails": null,
+            "steps": [
+            ],
+            "attachments": [
+            ],
+            "parameters": [
+            ]
+        },
+        {
+            "name": "Проверка, что виден заголовок заявки",
+            "start": 1661794764399,
+            "stop": 1661794764399,
+            "stage": "finished",
+            "description": null,
+            "descriptionHtml": null,
+            "status": "passed",
+            "statusDetails": null,
+            "steps": [
+            ],
+            "attachments": [
+            ],
+            "parameters": [
+            ]
+        },
+        {
+            "name": "Проверка, что виден заголовок заявки",
+            "start": 1661794764868,
+            "stop": 1661794764869,
+            "stage": "finished",
+            "description": null,
+            "descriptionHtml": null,
+            "status": "passed",
+            "statusDetails": null,
+            "steps": [
+            ],
+            "attachments": [
+            ],
+            "parameters": [
+            ]
+        }
+    ],
+    "attachments": [
+    ],
+    "parameters": [
+    ],
+    "uuid": "e55e44b8-54d3-49e7-b6eb-339a809fc595",
+    "historyId": "a2d2bc6dd1111b5e3776f3c5eaddb3d9",
+    "fullName": "tests.MainBlockTests.claimsShouldBeVisibleInClaimsPartOnMainBlock",
+    "labels": [
+        {
+            "name": "package",
+            "value": "tests"
+        },
+        {
+            "name": "testClass",
+            "value": "tests.MainBlockTests"
+        },
+        {
+            "name": "testMethod",
+            "value": "claimsShouldBeVisibleInClaimsPartOnMainBlock"
+        },
+        {
+            "name": "suite",
+            "value": "tests.MainBlockTests"
+        },
+        {
+            "name": "host",
+            "value": "localhost"
+        },
+        {
+            "name": "thread",
+            "value": "Instr: androidx.test.runner.AndroidJUnitRunner(661)"
+        },
+        {
+            "name": "framework",
+            "value": "junit4"
+        },
+        {
+            "name": "language",
+            "value": "kotlin"
+        }
+    ]
+}

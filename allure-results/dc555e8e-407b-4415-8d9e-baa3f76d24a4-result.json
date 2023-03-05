@@ -1,0 +1,101 @@
+{
+    "name": "Наличие новостей в блоке \"Новости\" (минимум 3)",
+    "start": 1661804184642,
+    "stop": 1661804210538,
+    "stage": "finished",
+    "description": null,
+    "descriptionHtml": null,
+    "status": "passed",
+    "statusDetails": null,
+    "steps": [
+        {
+            "name": "Проверка, что открыто акно авторизации",
+            "start": 1661804199473,
+            "stop": 1661804199473,
+            "stage": "finished",
+            "description": null,
+            "descriptionHtml": null,
+            "status": "passed",
+            "statusDetails": null,
+            "steps": [
+            ],
+            "attachments": [
+            ],
+            "parameters": [
+            ]
+        },
+        {
+            "name": "Переход в блок \"Новости\"",
+            "start": 1661804205702,
+            "stop": 1661804205702,
+            "stage": "finished",
+            "description": null,
+            "descriptionHtml": null,
+            "status": "passed",
+            "statusDetails": null,
+            "steps": [
+            ],
+            "attachments": [
+            ],
+            "parameters": [
+            ]
+        },
+        {
+            "name": "Проверка, что три новости имеются в блоке новостей",
+            "start": 1661804208851,
+            "stop": 1661804208851,
+            "stage": "finished",
+            "description": null,
+            "descriptionHtml": null,
+            "status": "passed",
+            "statusDetails": null,
+            "steps": [
+            ],
+            "attachments": [
+            ],
+            "parameters": [
+            ]
+        }
+    ],
+    "attachments": [
+    ],
+    "parameters": [
+    ],
+    "uuid": "dc555e8e-407b-4415-8d9e-baa3f76d24a4",
+    "historyId": "71b6555cd7d704c5104866751e9e6aa2",
+    "fullName": "tests.NewsTests.shouldBeThreeNewsInNewsBlock",
+    "labels": [
+        {
+            "name": "package",
+            "value": "tests"
+        },
+        {
+            "name": "testClass",
+            "value": "tests.NewsTests"
+        },
+        {
+            "name": "testMethod",
+            "value": "shouldBeThreeNewsInNewsBlock"
+        },
+        {
+            "name": "suite",
+            "value": "tests.NewsTests"
+        },
+        {
+            "name": "host",
+            "value": "localhost"
+        },
+        {
+            "name": "thread",
+            "value": "Instr: androidx.test.runner.AndroidJUnitRunner(874)"
+        },
+        {
+            "name": "framework",
+            "value": "junit4"
+        },
+        {
+            "name": "language",
+            "value": "kotlin"
+        }
+    ]
+}

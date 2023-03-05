@@ -1,0 +1,69 @@
+{
+    "name": "Переход в главный блок при помощи меню",
+    "start": 1661794818765,
+    "stop": 1661794829956,
+    "stage": "finished",
+    "description": null,
+    "descriptionHtml": null,
+    "status": "passed",
+    "statusDetails": null,
+    "steps": [
+        {
+            "name": "Проверка, что открыто акно авторизации",
+            "start": 1661794826331,
+            "stop": 1661794826331,
+            "stage": "finished",
+            "description": null,
+            "descriptionHtml": null,
+            "status": "passed",
+            "statusDetails": null,
+            "steps": [
+            ],
+            "attachments": [
+            ],
+            "parameters": [
+            ]
+        }
+    ],
+    "attachments": [
+    ],
+    "parameters": [
+    ],
+    "uuid": "28f5f30c-b6f5-47b1-99d4-30e017276be6",
+    "historyId": "5381d29e07d02f077263f8de897844f2",
+    "fullName": "tests.MenuTests.shouldGoToMainBlockWithMenu",
+    "labels": [
+        {
+            "name": "package",
+            "value": "tests"
+        },
+        {
+            "name": "testClass",
+            "value": "tests.MenuTests"
+        },
+        {
+            "name": "testMethod",
+            "value": "shouldGoToMainBlockWithMenu"
+        },
+        {
+            "name": "suite",
+            "value": "tests.MenuTests"
+        },
+        {
+            "name": "host",
+            "value": "localhost"
+        },
+        {
+            "name": "thread",
+            "value": "Instr: androidx.test.runner.AndroidJUnitRunner(661)"
+        },
+        {
+            "name": "framework",
+            "value": "junit4"
+        },
+        {
+            "name": "language",
+            "value": "kotlin"
+        }
+    ]
+}

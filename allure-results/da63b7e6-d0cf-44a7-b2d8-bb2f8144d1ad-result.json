@@ -1,0 +1,101 @@
+{
+    "name": "Наличие разделов \"Новости\" и \"Завки\" в главном блоке",
+    "start": 1661794802024,
+    "stop": 1661794810280,
+    "stage": "finished",
+    "description": null,
+    "descriptionHtml": null,
+    "status": "passed",
+    "statusDetails": null,
+    "steps": [
+        {
+            "name": "Проверка, что открыто акно авторизации",
+            "start": 1661794809548,
+            "stop": 1661794809548,
+            "stage": "finished",
+            "description": null,
+            "descriptionHtml": null,
+            "status": "passed",
+            "statusDetails": null,
+            "steps": [
+            ],
+            "attachments": [
+            ],
+            "parameters": [
+            ]
+        },
+        {
+            "name": "Проверка видимости раздела новостей в главном блоке",
+            "start": 1661794809563,
+            "stop": 1661794809563,
+            "stage": "finished",
+            "description": null,
+            "descriptionHtml": null,
+            "status": "passed",
+            "statusDetails": null,
+            "steps": [
+            ],
+            "attachments": [
+            ],
+            "parameters": [
+            ]
+        },
+        {
+            "name": "Проверка видимости раздела заявок в главном блоке",
+            "start": 1661794809567,
+            "stop": 1661794809567,
+            "stage": "finished",
+            "description": null,
+            "descriptionHtml": null,
+            "status": "passed",
+            "statusDetails": null,
+            "steps": [
+            ],
+            "attachments": [
+            ],
+            "parameters": [
+            ]
+        }
+    ],
+    "attachments": [
+    ],
+    "parameters": [
+    ],
+    "uuid": "da63b7e6-d0cf-44a7-b2d8-bb2f8144d1ad",
+    "historyId": "3580fc833956aaefc8f4e47fdfea3af4",
+    "fullName": "tests.MainBlockTests.newsAndClaimsPartsShouldBeInMainBLock",
+    "labels": [
+        {
+            "name": "package",
+            "value": "tests"
+        },
+        {
+            "name": "testClass",
+            "value": "tests.MainBlockTests"
+        },
+        {
+            "name": "testMethod",
+            "value": "newsAndClaimsPartsShouldBeInMainBLock"
+        },
+        {
+            "name": "suite",
+            "value": "tests.MainBlockTests"
+        },
+        {
+            "name": "host",
+            "value": "localhost"
+        },
+        {
+            "name": "thread",
+            "value": "Instr: androidx.test.runner.AndroidJUnitRunner(661)"
+        },
+        {
+            "name": "framework",
+            "value": "junit4"
+        },
+        {
+            "name": "language",
+            "value": "kotlin"
+        }
+    ]
+}

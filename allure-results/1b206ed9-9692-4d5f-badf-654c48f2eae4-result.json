@@ -1,0 +1,133 @@
+{
+    "name": "Ввод > 24 часов в поле часы при создании новости",
+    "start": 1661794972662,
+    "stop": 1661794989410,
+    "stage": "finished",
+    "description": null,
+    "descriptionHtml": null,
+    "status": "passed",
+    "statusDetails": null,
+    "steps": [
+        {
+            "name": "Проверка, что открыто акно авторизации",
+            "start": 1661794984474,
+            "stop": 1661794984474,
+            "stage": "finished",
+            "description": null,
+            "descriptionHtml": null,
+            "status": "passed",
+            "statusDetails": null,
+            "steps": [
+            ],
+            "attachments": [
+            ],
+            "parameters": [
+            ]
+        },
+        {
+            "name": "Переход в блок \"Новости\"",
+            "start": 1661794984492,
+            "stop": 1661794984492,
+            "stage": "finished",
+            "description": null,
+            "descriptionHtml": null,
+            "status": "passed",
+            "statusDetails": null,
+            "steps": [
+            ],
+            "attachments": [
+            ],
+            "parameters": [
+            ]
+        },
+        {
+            "name": "Начинаем создавать новость (переход к созданию новости)",
+            "start": 1661794985712,
+            "stop": 1661794985712,
+            "stage": "finished",
+            "description": null,
+            "descriptionHtml": null,
+            "status": "passed",
+            "statusDetails": null,
+            "steps": [
+            ],
+            "attachments": [
+            ],
+            "parameters": [
+            ]
+        },
+        {
+            "name": "Ввод времени вручную",
+            "start": 1661794986721,
+            "stop": 1661794986721,
+            "stage": "finished",
+            "description": null,
+            "descriptionHtml": null,
+            "status": "passed",
+            "statusDetails": null,
+            "steps": [
+            ],
+            "attachments": [
+            ],
+            "parameters": [
+            ]
+        },
+        {
+            "name": "Проверка, что появляется предупреждение о необходимости заполнить поля времени валидными данными",
+            "start": 1661794988025,
+            "stop": 1661794988026,
+            "stage": "finished",
+            "description": null,
+            "descriptionHtml": null,
+            "status": "passed",
+            "statusDetails": null,
+            "steps": [
+            ],
+            "attachments": [
+            ],
+            "parameters": [
+            ]
+        }
+    ],
+    "attachments": [
+    ],
+    "parameters": [
+    ],
+    "uuid": "1b206ed9-9692-4d5f-badf-654c48f2eae4",
+    "historyId": "cc4f2a3dc5da142376d878f99dfe557b",
+    "fullName": "tests.NewsCreationTests.shouldInputMoreThan24HoursWhenNewsIsBeingCreated",
+    "labels": [
+        {
+            "name": "package",
+            "value": "tests"
+        },
+        {
+            "name": "testClass",
+            "value": "tests.NewsCreationTests"
+        },
+        {
+            "name": "testMethod",
+            "value": "shouldInputMoreThan24HoursWhenNewsIsBeingCreated"
+        },
+        {
+            "name": "suite",
+            "value": "tests.NewsCreationTests"
+        },
+        {
+            "name": "host",
+            "value": "localhost"
+        },
+        {
+            "name": "thread",
+            "value": "Instr: androidx.test.runner.AndroidJUnitRunner(661)"
+        },
+        {
+            "name": "framework",
+            "value": "junit4"
+        },
+        {
+            "name": "language",
+            "value": "kotlin"
+        }
+    ]
+}

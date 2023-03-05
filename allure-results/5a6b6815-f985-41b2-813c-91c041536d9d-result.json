@@ -1,0 +1,101 @@
+{
+    "name": "Выход из личного кабинета",
+    "start": 1661794250083,
+    "stop": 1661794270570,
+    "stage": "finished",
+    "description": null,
+    "descriptionHtml": null,
+    "status": "passed",
+    "statusDetails": null,
+    "steps": [
+        {
+            "name": "Авторизация (вход в личный кабинет)",
+            "start": 1661794259395,
+            "stop": 1661794259395,
+            "stage": "finished",
+            "description": null,
+            "descriptionHtml": null,
+            "status": "passed",
+            "statusDetails": null,
+            "steps": [
+            ],
+            "attachments": [
+            ],
+            "parameters": [
+            ]
+        },
+        {
+            "name": "Выход из личного кабинета",
+            "start": 1661794267107,
+            "stop": 1661794267107,
+            "stage": "finished",
+            "description": null,
+            "descriptionHtml": null,
+            "status": "passed",
+            "statusDetails": null,
+            "steps": [
+            ],
+            "attachments": [
+            ],
+            "parameters": [
+            ]
+        },
+        {
+            "name": "Проверка, что открыто акно авторизации",
+            "start": 1661794268875,
+            "stop": 1661794268876,
+            "stage": "finished",
+            "description": null,
+            "descriptionHtml": null,
+            "status": "passed",
+            "statusDetails": null,
+            "steps": [
+            ],
+            "attachments": [
+            ],
+            "parameters": [
+            ]
+        }
+    ],
+    "attachments": [
+    ],
+    "parameters": [
+    ],
+    "uuid": "5a6b6815-f985-41b2-813c-91c041536d9d",
+    "historyId": "426a1898ed285fc211f3496bf8f6b38f",
+    "fullName": "tests.AuthorizationTests.shouldLogOut",
+    "labels": [
+        {
+            "name": "package",
+            "value": "tests"
+        },
+        {
+            "name": "testClass",
+            "value": "tests.AuthorizationTests"
+        },
+        {
+            "name": "testMethod",
+            "value": "shouldLogOut"
+        },
+        {
+            "name": "suite",
+            "value": "tests.AuthorizationTests"
+        },
+        {
+            "name": "host",
+            "value": "localhost"
+        },
+        {
+            "name": "thread",
+            "value": "Instr: androidx.test.runner.AndroidJUnitRunner(661)"
+        },
+        {
+            "name": "framework",
+            "value": "junit4"
+        },
+        {
+            "name": "language",
+            "value": "kotlin"
+        }
+    ]
+}

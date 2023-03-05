@@ -1,0 +1,85 @@
+{
+    "name": "Раскрытие элементов меню при нахождении в главном блоке",
+    "start": 1661794830144,
+    "stop": 1661794840328,
+    "stage": "finished",
+    "description": null,
+    "descriptionHtml": null,
+    "status": "passed",
+    "statusDetails": null,
+    "steps": [
+        {
+            "name": "Проверка, что открыто акно авторизации",
+            "start": 1661794838323,
+            "stop": 1661794838323,
+            "stage": "finished",
+            "description": null,
+            "descriptionHtml": null,
+            "status": "passed",
+            "statusDetails": null,
+            "steps": [
+            ],
+            "attachments": [
+            ],
+            "parameters": [
+            ]
+        },
+        {
+            "name": "Провека, что видны все пункты меню",
+            "start": 1661794838949,
+            "stop": 1661794838949,
+            "stage": "finished",
+            "description": null,
+            "descriptionHtml": null,
+            "status": "passed",
+            "statusDetails": null,
+            "steps": [
+            ],
+            "attachments": [
+            ],
+            "parameters": [
+            ]
+        }
+    ],
+    "attachments": [
+    ],
+    "parameters": [
+    ],
+    "uuid": "50ffe390-7a98-4bd9-ba19-58bbfe0c3293",
+    "historyId": "970e5035d1131e7a250e731e7b8fc982",
+    "fullName": "tests.MenuTests.menuElementsShouldBeVisible",
+    "labels": [
+        {
+            "name": "package",
+            "value": "tests"
+        },
+        {
+            "name": "testClass",
+            "value": "tests.MenuTests"
+        },
+        {
+            "name": "testMethod",
+            "value": "menuElementsShouldBeVisible"
+        },
+        {
+            "name": "suite",
+            "value": "tests.MenuTests"
+        },
+        {
+            "name": "host",
+            "value": "localhost"
+        },
+        {
+            "name": "thread",
+            "value": "Instr: androidx.test.runner.AndroidJUnitRunner(661)"
+        },
+        {
+            "name": "framework",
+            "value": "junit4"
+        },
+        {
+            "name": "language",
+            "value": "kotlin"
+        }
+    ]
+}

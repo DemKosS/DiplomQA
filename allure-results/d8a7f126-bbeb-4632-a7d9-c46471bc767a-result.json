@@ -1,0 +1,117 @@
+{
+    "name": "Полнота информации раскрытой заявки в блоке \"Заявки\"",
+    "start": 1661794464449,
+    "stop": 1661794480878,
+    "stage": "finished",
+    "description": null,
+    "descriptionHtml": null,
+    "status": "passed",
+    "statusDetails": null,
+    "steps": [
+        {
+            "name": "Проверка, что открыто акно авторизации",
+            "start": 1661794474479,
+            "stop": 1661794474480,
+            "stage": "finished",
+            "description": null,
+            "descriptionHtml": null,
+            "status": "passed",
+            "statusDetails": null,
+            "steps": [
+            ],
+            "attachments": [
+            ],
+            "parameters": [
+            ]
+        },
+        {
+            "name": "Переход в блок \"Заявки\"",
+            "start": 1661794474517,
+            "stop": 1661794474518,
+            "stage": "finished",
+            "description": null,
+            "descriptionHtml": null,
+            "status": "passed",
+            "statusDetails": null,
+            "steps": [
+            ],
+            "attachments": [
+            ],
+            "parameters": [
+            ]
+        },
+        {
+            "name": "Переход к первой заявке из блока заявок",
+            "start": 1661794476252,
+            "stop": 1661794476252,
+            "stage": "finished",
+            "description": null,
+            "descriptionHtml": null,
+            "status": "passed",
+            "statusDetails": null,
+            "steps": [
+            ],
+            "attachments": [
+            ],
+            "parameters": [
+            ]
+        },
+        {
+            "name": "Проверка, всех элементов заявки",
+            "start": 1661794479676,
+            "stop": 1661794479676,
+            "stage": "finished",
+            "description": null,
+            "descriptionHtml": null,
+            "status": "passed",
+            "statusDetails": null,
+            "steps": [
+            ],
+            "attachments": [
+            ],
+            "parameters": [
+            ]
+        }
+    ],
+    "attachments": [
+    ],
+    "parameters": [
+    ],
+    "uuid": "d8a7f126-bbeb-4632-a7d9-c46471bc767a",
+    "historyId": "8444f8f6540e2ff3add444b8cb808269",
+    "fullName": "tests.ClaimsTests.shouldBeFullContentOfExpandedClaimInClaimsBlock",
+    "labels": [
+        {
+            "name": "package",
+            "value": "tests"
+        },
+        {
+            "name": "testClass",
+            "value": "tests.ClaimsTests"
+        },
+        {
+            "name": "testMethod",
+            "value": "shouldBeFullContentOfExpandedClaimInClaimsBlock"
+        },
+        {
+            "name": "suite",
+            "value": "tests.ClaimsTests"
+        },
+        {
+            "name": "host",
+            "value": "localhost"
+        },
+        {
+            "name": "thread",
+            "value": "Instr: androidx.test.runner.AndroidJUnitRunner(661)"
+        },
+        {
+            "name": "framework",
+            "value": "junit4"
+        },
+        {
+            "name": "language",
+            "value": "kotlin"
+        }
+    ]
+}

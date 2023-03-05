@@ -1,0 +1,101 @@
+{
+    "name": "Полнота информации заявок (в свернутом состоянии) в блоке \"Заявки\"",
+    "start": 1661804785985,
+    "stop": 1661804808830,
+    "stage": "finished",
+    "description": null,
+    "descriptionHtml": null,
+    "status": "passed",
+    "statusDetails": null,
+    "steps": [
+        {
+            "name": "Проверка, что открыто акно авторизации",
+            "start": 1661804800002,
+            "stop": 1661804800002,
+            "stage": "finished",
+            "description": null,
+            "descriptionHtml": null,
+            "status": "passed",
+            "statusDetails": null,
+            "steps": [
+            ],
+            "attachments": [
+            ],
+            "parameters": [
+            ]
+        },
+        {
+            "name": "Переход в блок \"Заявки\"",
+            "start": 1661804800376,
+            "stop": 1661804800376,
+            "stage": "finished",
+            "description": null,
+            "descriptionHtml": null,
+            "status": "passed",
+            "statusDetails": null,
+            "steps": [
+            ],
+            "attachments": [
+            ],
+            "parameters": [
+            ]
+        },
+        {
+            "name": "Проверка содержимого первой заявки в блоке заявок",
+            "start": 1661804806592,
+            "stop": 1661804806593,
+            "stage": "finished",
+            "description": null,
+            "descriptionHtml": null,
+            "status": "passed",
+            "statusDetails": null,
+            "steps": [
+            ],
+            "attachments": [
+            ],
+            "parameters": [
+            ]
+        }
+    ],
+    "attachments": [
+    ],
+    "parameters": [
+    ],
+    "uuid": "10773bcf-da58-43bb-938a-33198bb10c79",
+    "historyId": "66621d5477797f74208458f3ff4de181",
+    "fullName": "tests.ClaimsTests.shouldBeFullContentOfNotExpandedClaimInClaimsBlock",
+    "labels": [
+        {
+            "name": "package",
+            "value": "tests"
+        },
+        {
+            "name": "testClass",
+            "value": "tests.ClaimsTests"
+        },
+        {
+            "name": "testMethod",
+            "value": "shouldBeFullContentOfNotExpandedClaimInClaimsBlock"
+        },
+        {
+            "name": "suite",
+            "value": "tests.ClaimsTests"
+        },
+        {
+            "name": "host",
+            "value": "localhost"
+        },
+        {
+            "name": "thread",
+            "value": "Instr: androidx.test.runner.AndroidJUnitRunner(889)"
+        },
+        {
+            "name": "framework",
+            "value": "junit4"
+        },
+        {
+            "name": "language",
+            "value": "kotlin"
+        }
+    ]
+}
